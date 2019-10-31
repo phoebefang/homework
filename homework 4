@@ -1,0 +1,14 @@
+#include <iostream> 
+
+using namespace std; 
+
+int main() 
+{
+	class Node;
+	int data;
+	int next;
+	node = new Node();
+	removeNode;
+	
+	return 0;
+}
